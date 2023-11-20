@@ -3,35 +3,61 @@
     "headOffice": "North Pole",
     "established": 2023,
     "active": true,
-    "topFlavors": [{
-        "name": "Chocolate Mint",
-        "calories": 300,
-        "type": "ice-cream",
-        "ingredients": [
-            "Chocolate Syrup",
-            "Peppermint Sprinkle",
-            "Vanilla Base"
-        ],
-        "image": ""
-    }, {
-        "name": "Peach Mango",
-        "calories": 350,
-        "type": "milshake-type ice-cream",
-        "ingredients": [
-            "Peach Syrup",
-            "Mango Chunks",
-            "Vanilla Base"
-        ],
-        "image": ""
-    }, {
-        "name": "Strawberry Sprinkle",
-        "calories": 400,
-        "type": "ice-cream",
-        "ingredients": [
-            "Strawberry Chunks",
-            "Sprinkles",
-            "Vanilla Base"
-        ],
-        "image": ""
-    }]
+    "topFlavors": [
+        {
+            "name": "Chocolate Mint",
+            "calories": 300,
+            "type": "ice-cream",
+            "ingredients": [
+                "Chocolate Syrup",
+                "Peppermint Sprinkle",
+                "Vanilla Base"
+            ],
+            "image": "https://bhavsar08.github.io/JAVASCRIPT11/images/chocolate-mint.svg"
+        },
+        {
+            "name": "Peach Mango",
+            "calories": 350,
+            "type": "milshake-type ice-cream",
+            "ingredients": [
+                "Peach Syrup",
+                "Mango Chunks",
+                "Vanilla Base"
+            ],
+            "image": "https://bhavsar08.github.io/JAVASCRIPT11/images/peach-mango.svg"
+        },
+        {
+            "name": "Strawberry Sprinkle",
+            "calories": 400,
+            "type": "ice-cream",
+            "ingredients": [
+                "Strawberry Chunks",
+                "Sprinkles",
+                "Vanilla Base"
+            ],
+            "image": "https://bhavsar08.github.io/JAVASCRIPT11/images/strawberry-sprinkle.svg"
+        },
+        {
+            "name": "super sundae",
+            "calories": 500,
+            "type": "ice-cream",
+            "ingredients": [
+                "Milk",
+                "silk origin",
+                "frsnch Base"
+            ],
+            "image": "https://bhavsar08.github.io/JAVASCRIPT11/images/ice-cream-xtra1.svg"
+        },
+        {
+            "name": "Lava chocolate",
+            "calories": 450,
+            "type": "cup-cake",
+            "ingredients": [
+                "syrup",
+                "almond",
+                "fillings"
+            ],
+            "image": "https://bhavsar08.github.io/JAVASCRIPT11/images/ice-cream-xtra2.svg"
+        }
+    ]
 }
