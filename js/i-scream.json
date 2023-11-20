@@ -1,0 +1,37 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "North Pole",
+    "established": 2023,
+    "active": true,
+    "topFlavors": [{
+        "name": "Chocolate Mint",
+        "calories": 300,
+        "type": "ice-cream",
+        "ingredients": [
+            "Chocolate Syrup",
+            "Peppermint Sprinkle",
+            "Vanilla Base"
+        ],
+        "image": ""
+    }, {
+        "name": "Peach Mango",
+        "calories": 350,
+        "type": "milshake-type ice-cream",
+        "ingredients": [
+            "Peach Syrup",
+            "Mango Chunks",
+            "Vanilla Base"
+        ],
+        "image": ""
+    }, {
+        "name": "Strawberry Sprinkle",
+        "calories": 400,
+        "type": "ice-cream",
+        "ingredients": [
+            "Strawberry Chunks",
+            "Sprinkles",
+            "Vanilla Base"
+        ],
+        "image": ""
+    }]
+}
